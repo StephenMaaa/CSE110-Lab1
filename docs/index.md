@@ -1,15 +1,11 @@
-# Welcome to my github web page
-
-## Introduction 
+# Introduction 
 My name is Jiachen Ma. I'm a third-year CS student in UCSD. My current interests cover machine learning, computer vision and deep learning. 
 
-Direct link to section: [Programming Experience](#programming-experience), [Personal info](#personal-info)
-
-Direct link to the [README.md](../README.md)
+Section links: [Programming Experience](#programming-experience), [Personal info](#personal-info)
 
 <br> 
 
-## Programming Experience 
+# Programming Experience 
 The programming languages I acquired: *Java, Python, C, C++, HTML, CSS, R, Swift*
 
 Last summer, I became a research intern in computer vision and deep learning. I completed 3 projects along with my mentor: 
@@ -31,6 +27,10 @@ Here is a joke about neural network:
 
 Hmmm `$ alias cd='rm -rf'`: 
 ![trick](img.jpeg)
+
+Relative link to the first meme: [cat](cat.jpeg)
+
+Relative link to the second meme: [rm -rf](img.jpeg)
 
 <br> 
 
