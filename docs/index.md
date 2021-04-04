@@ -3,9 +3,9 @@
 ## Introduction 
 My name is Jiachen Ma. I'm a third-year CS student in UCSD. My current interests cover machine learning, computer vision and deep learning. 
 
-Direct link to section: [Programming Experience](#Programming-Experience), [Personal info](#Personal-info)
+Direct link to section: [Programming Experience](#programming-experience), [Personal info](#personal-info)
 
-Direct link to the README.md
+Direct link to the [README.md](../README.md)
 
 <br> 
 
